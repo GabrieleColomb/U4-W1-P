@@ -1,0 +1,7 @@
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\bin\Debug\U4-W1-P.exe.config
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\bin\Debug\U4-W1-P.exe
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\bin\Debug\U4-W1-P.pdb
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\obj\Debug\U4-W1-P.csproj.AssemblyReference.cache
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\obj\Debug\U4-W1-P.csproj.CoreCompileInputs.cache
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\obj\Debug\U4-W1-P.exe
+C:\Users\gfcol\Desktop\EPICODE\Back-end\U4-W1-P\U4-W1-P\obj\Debug\U4-W1-P.pdb
